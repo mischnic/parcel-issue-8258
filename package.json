@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "parcel index.js --open",
+    "build": "parcel build index.js"
+  },
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  }
+}
